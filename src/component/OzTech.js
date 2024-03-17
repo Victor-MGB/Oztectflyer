@@ -28,7 +28,7 @@ function OzTech() {
               <span className="text-gray-700">
                 For more inquiries <i>call us</i> <br />
                 <strong>+234 9077955363</strong> <br />
-                <strong>mgbemenaosonduv@gmail.com</strong>
+                <strong>oztech640@gmail.com</strong>
               </span>
             </div>
           </div>
